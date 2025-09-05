@@ -365,7 +365,7 @@
 			</UCard>
 
 			<PageNavigation
-				:previous-page="{ path: '/golden-ear', label: '황금귀 테스트' }"
+				:previous-page="{ path: '/', label: '메인 페이지' }"
 				:next-page="{
 					path: '/framerate-comparison',
 					label: '프레임레이트 비교',

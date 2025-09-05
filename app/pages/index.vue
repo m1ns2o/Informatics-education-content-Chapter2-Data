@@ -10,8 +10,8 @@
 				</p>
 			</div>
 
-			<div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-				<UCard class="hover:shadow-lg transition-shadow">
+			<div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+				<!-- <UCard class="hover:shadow-lg transition-shadow">
 					<template #header>
 						<div class="flex items-center gap-3">
 							<UIcon
@@ -31,7 +31,7 @@
 							테스트 시작
 						</UButton>
 					</template>
-				</UCard>
+				</UCard> -->
 
 				<UCard class="hover:shadow-lg transition-shadow">
 					<template #header>
